@@ -1,0 +1,33 @@
+h1 {
+    color:#FFF;
+    background-color:#FF0000;
+    padding:5px;
+    width:230px;
+}
+div p {
+    font-size:1.2em;
+}
+div span{
+    color:#FF0000;
+}
+table.sample1{
+    border:medium solid #ff00ff;
+    margin:30px 30px;
+    padding:10px;
+}
+tr>th{
+    color:#f0000f;
+}
+h1~p{
+    color:#0000FF;
+}
+#example{
+    color: #800000;
+    font-weight: bold;
+}
+footer{
+    text-align: center;
+}
+ul {
+    list-style-type: square;
+}
